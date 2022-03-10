@@ -1,0 +1,44 @@
+{
+  "cars": [
+    {
+      "model": "LS",
+      "price": 20000,
+      "video": "https://www.lexus.com/content/dam/lexus/videos/models/is/2022/performance/ANEWBREED.mp4",
+      "image1": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/500-f-sport-performance/exterior/19-in-split-10-spoke-enkei-alloy-wheels/ultra-white/large-1.jpg",
+      "image2": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/500-f-sport-performance/exterior/19-in-split-10-spoke-enkei-alloy-wheels/ultra-white/large-2.jpg",
+      "image3": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/500-f-sport-performance/exterior/19-in-split-10-spoke-enkei-alloy-wheels/ultra-white/large-3.jpg",
+      "image4": "https://www.lexus.com/content/dam/lexus/images/models/is/2022/visualizer/500-f-sport-performance/exterior/19-in-split-10-spoke-enkei-alloy-wheels/ultra-white/large-4.jpg",
+      "id": 11
+    },
+    {
+      "model": "ls",
+      "price": 10000,
+      "video": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "image4": "",
+      "id": 16
+    },
+    {
+      "model": "ls",
+      "price": 15000,
+      "video": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "image4": "",
+      "id": 17
+    },
+    {
+      "model": "ls",
+      "price": 12323,
+      "video": "",
+      "image1": "",
+      "image2": "",
+      "image3": "",
+      "image4": "",
+      "id": 18
+    }
+  ]
+}
